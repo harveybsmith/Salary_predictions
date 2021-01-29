@@ -2,12 +2,7 @@
 
 # This script pulls in salary data, builds and tests several predictive models,
 # and then makes salary predictions on test data using the best model
-   
-__author__ = 'DSDJ Team'
-__email__ = 'info@datasciencedreamjob..com'
-__website__ = 'www.datasciencedreamjob.com'
-
-__copyright__ = 'Copyright 2018, Data Science Dream Job LLC'
+  
 
 
 import pandas as pd
